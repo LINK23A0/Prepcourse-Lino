@@ -1,2 +1,1 @@
-# Prepcourse-Lino
-repositorio de prueba de lino 
+ESTE ES MI REPOSITORIO
